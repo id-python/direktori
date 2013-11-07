@@ -34,31 +34,35 @@ Media Sosial
 Anda bisa berkontribusi dengan memanfaatkan beragam media sosial di bawah ini:
 
 Milis
-''''''
+``````
 
 id-python@yahoogroups.com
 
 Twitter
-''''''''
-
+````````
 @id_python
 
 Blog
-''''
+`````
 
 http://python.or.id
 
 Facebook
-''''''''''
+`````````
 
 Planet
-''''''''
+```````
 
 http://planet.python.or.id
 Anda bisa berkontribusi dengan menyertakan blog Anda dalam planpin | Planet Python Indonesia.
 
 IRC
-''''''
+````
 
 #python-id
 irc.freenode.net
+
+Ide Lain
+---------
+
+Anda memiliki ide lain untuk kontribusi? Silakan fork dan ajukan pull request! 
