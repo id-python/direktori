@@ -39,13 +39,13 @@ E
 F
 -
 
-* Fanani M 
-* Fauzan Emmerling
+* Fanani M ([@fananimi](http://twitter.com/fananimi))
+* Fauzan Emmerling ([@femmerling](http://twitter.com/femmerling))
 
 G
 -
 
-* Gilang Chandrasa
+* Gilang Chandrasa ([@gchandrasa](http://twitter.com/gchandrasa))
 * Gombang Nan Cengka
 
 H
@@ -56,7 +56,7 @@ H
 I
 -
 
-* Isman Firmansyah
+* Isman Firmansyah ([@iromli](http://twitter.com/iromli))
 * Iwan Budi Kusnanto
 
 J
@@ -107,7 +107,7 @@ R
 S
 -
 
-* Sakti Dwi Cahyono
+* Sakti Dwi Cahyono ([@saktidc](http://twitter.com/saktidc))
 * Selwin Ong
 
 T
@@ -143,7 +143,7 @@ Y
 Z
 -- 
 
-* Zaki Akhmad
+* Zaki Akhmad ([@zakiakhmad](http://twitter.com/zakiakhmad))
 
 
 Proyek
