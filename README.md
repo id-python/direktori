@@ -40,7 +40,7 @@ F
 -
 
 * Fanani M ([@fananimi](http://twitter.com/fananimi))
-* Fauzan Emmerling ([@femmerling](http://twitter.com/femmerling))
+* [Fauzan Emmerling](http://www.emfeld.com) ([@femmerling](http://twitter.com/femmerling))
 
 G
 -
@@ -151,6 +151,8 @@ Proyek
 ======
 
 * Kokoropy ([demo](http://kokoropy.herokuapp.com), [github repository](https://github.com/goFrendiAsgard/kokoropy))
+* EmeraldBox Web Framework ([github repository](https://github.com/femmerling/EmeraldBox))
+* Backyard Backend API Framework ([github repository](https://github.com/femmerling/backyard))
 
 Lisensi
 =======
