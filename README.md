@@ -110,6 +110,7 @@ S
 
 * Sakti Dwi Cahyono ([@saktidc](http://twitter.com/saktidc))
 * Selwin Ong
+* Sutrisno Efendi ([@kangfend](http://twitter.com/kangfend))
 
 T
 -
