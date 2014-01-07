@@ -114,7 +114,8 @@ S
 T
 -
 
-*  Tino Kusut ([@_kusut](http://twitter.com/_kusut))
+* Theresia Tanzil ([@theresiatanzil](http://twitter.com/theresiatanzil))
+* Tino Kusut ([@_kusut](http://twitter.com/_kusut))
 
 U
 -
