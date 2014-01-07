@@ -14,7 +14,7 @@ Pythonistas
 A
 -
 
-* ...
+* Andri Nugraha ([linkedin](http://id.linkedin.com/in/andrinugraha))
 
 B
 -
@@ -63,7 +63,7 @@ I
 J
 -
 
-* [Jessica Rasidi](http://github.com/jessicarasidi)
+* Jessica Rasidi ([github](http://github.com/jessicarasidi))
 
 K
 -
