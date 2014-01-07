@@ -47,6 +47,7 @@ G
 
 * Gilang Chandrasa ([@gchandrasa](http://twitter.com/gchandrasa))
 * Gombang Nan Cengka
+* Go Frendi Gunawan ([@goFrendiAsgard](http://twitter.com/goFrendiAsgard))
 
 H
 -
@@ -149,7 +150,7 @@ Z
 Proyek
 ======
 
-* ...
+* Kokoropy ([demo](http://kokoropy.herokuapp.com), [github repository](https://github.com/goFrendiAsgard/kokoropy))
 
 Lisensi
 =======
