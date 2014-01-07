@@ -93,7 +93,7 @@ O
 P
 -
 
-* ...
+* [Petra Novandi Barus](http://petrabarus.net) ([@petrabarus](http://twitter.com/petrabarus), [linkedin](http://id.linkedin.com/in/petrabarus))
 
 Q
 -
