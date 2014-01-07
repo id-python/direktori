@@ -19,7 +19,7 @@ A
 B
 -
 
-* ...
+* [Batista Harahap](http://resume.bango29.com) ([@tista](https://twitter.com/tista))
 
 C
 -
@@ -155,6 +155,8 @@ Proyek
 * Kokoropy ([demo](http://kokoropy.herokuapp.com), [github repository](https://github.com/goFrendiAsgard/kokoropy))
 * EmeraldBox Web Framework ([github repository](https://github.com/femmerling/EmeraldBox))
 * Backyard Backend API Framework ([github repository](https://github.com/femmerling/backyard))
+* OAuth 1.0 Provider ([github repository](https://github.com/tistaharahap/oauth1-provider))
+* WordGrapher ([github repository](https://github.com/tistaharahap/WordGraph))
 
 Lisensi
 =======
