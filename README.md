@@ -63,7 +63,7 @@ I
 J
 -
 
-* ...
+* [Jessica Rasidi](http://github.com/jessicarasidi)
 
 K
 -
