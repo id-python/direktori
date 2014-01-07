@@ -103,7 +103,7 @@ Q
 R
 -
 
-* ...
+* Rezha Julio ([@kimiamania](http://twitter.com/kimiamania))
 
 S
 -
