@@ -19,7 +19,7 @@ A
 B
 -
 
-* ...
+* [Batista Harahap](http://resume.bango29.com) ([@tista](https://twitter.com/tista))
 
 C
 -
