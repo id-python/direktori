@@ -160,4 +160,5 @@ Proyek
 
 Lisensi
 =======
-...
+
+Lisensi *proyek direktori Python Indonesia* ini merupakan domain publik _(public domain)_.
