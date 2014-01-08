@@ -57,7 +57,7 @@ H
 I
 -
 
-* Ilham Akbar ([@ilhamije](https://twitter.com/ilhamije))
+* Ilham Akbar ([@ilhamije](http://twitter.com/ilhamije))
 * Isman Firmansyah ([@iromli](http://twitter.com/iromli))
 * Iwan Budi Kusnanto
 
