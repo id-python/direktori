@@ -157,6 +157,7 @@ Proyek
 * Backyard Backend API Framework ([github repository](https://github.com/femmerling/backyard))
 * OAuth 1.0 Provider ([github repository](https://github.com/tistaharahap/oauth1-provider))
 * WordGrapher ([github repository](https://github.com/tistaharahap/WordGraph))
+* Area 51 - Various OpenCV experiment(s), written in Python ([github repository](https://github.com/toopay/area51))
 
 Lisensi
 =======
