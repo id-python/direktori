@@ -79,7 +79,7 @@ L
 M
 -
 
-* ...
+* Mulia Arifandy Nasution ([@mul14](http://twitter.com/mul14))
 
 N
 -
@@ -161,4 +161,5 @@ Proyek
 
 Lisensi
 =======
-...
+
+Lisensi *proyek direktori Python Indonesia* ini merupakan domain publik _(public domain)_.
