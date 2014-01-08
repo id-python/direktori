@@ -15,8 +15,7 @@ Lalu jika Anda merasa bisa membantu memecahkan permasalahan orang lain, jangan s
 Kopi Darat
 -----------
 
-Kopi darat saat ini _diusahakan_ untuk bisa konsisten diadakan setiap 2 bulan sekali. Format kopi darat adalah mengundang 4 pembicara dengan durasi waktu masing-masing 45 menit. Anda bisa berkontribusi dalam kopi darat dengan menjadi: pembicara, peserta atau yang menyelenggarakan. 
-
+Kopi darat saat ini _diusahakan_ untuk bisa konsisten diadakan setiap 2 bulan sekali. Format kopi darat adalah mengundang 4 pembicara dengan durasi waktu masing-masing 45 menit. Anda bisa berkontribusi dalam kopi darat dengan menjadi: pembicara, peserta atau yang menyelenggarakan. Informasi mengenai Kopi Darat Python-Id juga bisa disimak di halaman [Meetup.com/Python-Id](http://www.meetup.com/Python-ID/).
 
 Hackathon
 ----------
@@ -39,7 +38,7 @@ id-python@yahoogroups.com
 
 ### Twitter
 
-@id_python
+[@id_python](http://twitter.com/id_python)
 
 ### Blog
 
