@@ -39,7 +39,7 @@ E
 F
 -
 
-* Fanani M ([@fananimi](http://twitter.com/fananimi))
+* Fanani M. Ihsan ([@fananimi](http://twitter.com/fananimi))
 * [Fauzan Emmerling](http://www.emfeld.com) ([@femmerling](http://twitter.com/femmerling))
 
 G
