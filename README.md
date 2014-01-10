@@ -13,6 +13,7 @@ Pythonistas
 
 A
 -
+* Akbar Gumbira ([Personal Web](http://www.akbargumbira.com) | [Twitter] (http://www.twitter.com/akbargumbira))
 
 * Andri Nugraha ([linkedin](http://id.linkedin.com/in/andrinugraha))
 
