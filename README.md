@@ -34,7 +34,7 @@ D
 E
 -
 
-* ...
+* [Eka Putra](https://github.com/ekaputra07) ([@ekaputra07](https://twitter.com/ekaputra07), [linkedin](http://www.linkedin.com/in/ekaputra07))
 
 F
 -
@@ -161,6 +161,7 @@ Proyek
 * OAuth 1.0 Provider ([github repository](https://github.com/tistaharahap/oauth1-provider))
 * WordGrapher ([github repository](https://github.com/tistaharahap/WordGraph))
 * GLKolab OpenGL Based Multiuser Whiteboard ([github repository](https://github.com/initrunlevel0/GLKolab))
+* giFTP - GIT to FTP made easy ([github repository](https://github.com/ekaputra07/giFTP))
 
 Lisensi
 =======
