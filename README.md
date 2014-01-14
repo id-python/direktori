@@ -94,7 +94,7 @@ O
 
 P
 -
-
+* [Peb Ruswono Aryan](http://github.com/pebbie) ([@pebaryan](http://twitter.com/pebaryan))
 * [Petra Novandi Barus](http://petrabarus.net) ([@petrabarus](http://twitter.com/petrabarus), [linkedin](http://id.linkedin.com/in/petrabarus))
 * [Putu Wiramaswara Widya](http://wiramaswara.blogspot.com) ([@wiramaswara](https://twitter.com/wiramaswara)) ([github](https://github.com/initrunlevel0))
 
@@ -162,6 +162,7 @@ Proyek
 * WordGrapher ([github repository](https://github.com/tistaharahap/WordGraph))
 * GLKolab OpenGL Based Multiuser Whiteboard ([github repository](https://github.com/initrunlevel0/GLKolab))
 * giFTP - GIT to FTP made easy ([github repository](https://github.com/ekaputra07/giFTP))
+* [pebahasa](http://github.com/pebbie/pebahasa) - NLP tools (Sentence boundary detection, Term extraction, POS Tagger, Summarization) for Bahasa Indonesia [online](http://nlp.pebbie.net) [slide](http://www.slideshare.net/pebbie/python-untuk-pemrosesan-teks-bahasa-indonesia)
 
 Lisensi
 =======
