@@ -152,18 +152,18 @@ Z
 * Zaki Akhmad ([@zakiakhmad](http://twitter.com/zakiakhmad))
 
 
-Proyek
-======
+Aplikasi/Proyek
+===============
 
-* Kokoropy ([demo](http://kokoropy.herokuapp.com), [github repository](https://github.com/goFrendiAsgard/kokoropy))
-* EmeraldBox Web Framework ([github repository](https://github.com/femmerling/EmeraldBox))
 * Backyard Backend API Framework ([github repository](https://github.com/femmerling/backyard))
+* EmeraldBox Web Framework ([github repository](https://github.com/femmerling/EmeraldBox))
+* Fuzfuz - simple dictionary fuzzer [github repo](https://github.com/sakti/fuzfuz)
+* GLKolab OpenGL Based Multiuser Whiteboard ([github repository](https://github.com/initrunlevel0/GLKolab))
+* Kokoropy ([demo](http://kokoropy.herokuapp.com), [github repository](https://github.com/goFrendiAsgard/kokoropy))
 * OAuth 1.0 Provider ([github repository](https://github.com/tistaharahap/oauth1-provider))
 * WordGrapher ([github repository](https://github.com/tistaharahap/WordGraph))
-* GLKolab OpenGL Based Multiuser Whiteboard ([github repository](https://github.com/initrunlevel0/GLKolab))
+* Pebahasa ([github repository](http://github.com/pebbie/pebahasa)) - NLP tools (Sentence boundary detection, Term extraction, POS Tagger, Summarization) for Bahasa Indonesia [online](http://nlp.pebbie.net) [slide](http://www.slideshare.net/pebbie/python-untuk-pemrosesan-teks-bahasa-indonesia)
 * giFTP - GIT to FTP made easy ([github repository](https://github.com/ekaputra07/giFTP))
-* [pebahasa](http://github.com/pebbie/pebahasa) - NLP tools (Sentence boundary detection, Term extraction, POS Tagger, Summarization) for Bahasa Indonesia [online](http://nlp.pebbie.net) [slide](http://www.slideshare.net/pebbie/python-untuk-pemrosesan-teks-bahasa-indonesia)
-* Fuzfuz - simple dictionary fuzzer [github repo](https://github.com/sakti/fuzfuz)
 
 Lisensi
 =======
