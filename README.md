@@ -163,6 +163,7 @@ Proyek
 * GLKolab OpenGL Based Multiuser Whiteboard ([github repository](https://github.com/initrunlevel0/GLKolab))
 * giFTP - GIT to FTP made easy ([github repository](https://github.com/ekaputra07/giFTP))
 * [pebahasa](http://github.com/pebbie/pebahasa) - NLP tools (Sentence boundary detection, Term extraction, POS Tagger, Summarization) for Bahasa Indonesia [online](http://nlp.pebbie.net) [slide](http://www.slideshare.net/pebbie/python-untuk-pemrosesan-teks-bahasa-indonesia)
+* Fuzfuz - simple dictionary fuzzer [github repo](https://github.com/sakti/fuzfuz)
 
 Lisensi
 =======
