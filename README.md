@@ -15,6 +15,7 @@ A
 -
 * [Akbar Gumbira](http://www.akbargumbira.com) ([@akbargumbira](http://www.twitter.com/akbargumbira))
 * Andri Nugraha ([linkedin](http://id.linkedin.com/in/andrinugraha))
+* Ardin Fardiansyah ([github](http://github.com/ardfard), [@ardfard101](https://twitter.com/ardfard101))
 
 B
 -
