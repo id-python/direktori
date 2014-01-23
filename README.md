@@ -30,7 +30,7 @@ C
 D
 - 
 
-* ...
+* [Donny Reza] (http://donnyreza.net) ([@donnyreza](https://twitter.com/donnyreza))
 
 E
 -
