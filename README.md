@@ -165,6 +165,8 @@ Aplikasi/Proyek
 * WordGrapher ([github repository](https://github.com/tistaharahap/WordGraph))
 * Pebahasa ([github repository](http://github.com/pebbie/pebahasa)) - NLP tools (Sentence boundary detection, Term extraction, POS Tagger, Summarization) for Bahasa Indonesia [online](http://nlp.pebbie.net) [slide](http://www.slideshare.net/pebbie/python-untuk-pemrosesan-teks-bahasa-indonesia)
 * giFTP - GIT to FTP made easy ([github repository](https://github.com/ekaputra07/giFTP))
+* planpinbot - ([planpin twitter bot](http://twitter.com/planpin))
+* azan jakarta - ([twitter bot waktu shalat](http://twitter.com/azanjakarta))
 
 Lisensi
 =======
