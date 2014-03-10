@@ -117,6 +117,7 @@ S
 * Sutrisno Efendi ([@kangfend](http://twitter.com/kangfend))
 
 T
+* ([Tata Taufik](https://bitbucket.org/tatataufik/))
 -
 
 * Theresia Tanzil ([@theresiatanzil](http://twitter.com/theresiatanzil))
@@ -167,6 +168,7 @@ Aplikasi/Proyek
 * giFTP - GIT to FTP made easy ([github repository](https://github.com/ekaputra07/giFTP))
 * planpinbot - ([planpin twitter bot](http://twitter.com/planpin))
 * azan jakarta - ([twitter bot waktu shalat](http://twitter.com/azanjakarta))
+* pyislamia - ([pyislamia](https://bitbucket.org/tatataufik/pyislamia.git))
 
 Lisensi
 =======
