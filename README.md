@@ -118,9 +118,9 @@ S
 * Sutrisno Efendi ([@kangfend](http://twitter.com/kangfend))
 
 T
-* ([Tata Taufik](https://bitbucket.org/tatataufik/))
 -
 
+* [Tata Taufik](https://bitbucket.org/tatataufik/)
 * Theresia Tanzil ([@theresiatanzil](http://twitter.com/theresiatanzil))
 * Tino Kusut ([@_kusut](http://twitter.com/_kusut))
 
