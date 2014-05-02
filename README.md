@@ -153,7 +153,7 @@ Y
 Z
 -- 
 
-* Zaki Akhmad ([@zakiakhmad](http://twitter.com/zakiakhmad))
+* Zaki Akhmad ([@zakiakhmad](http://twitter.com/zakiakhmad)); Jakarta Selatan; security, penetration test, scripting, dan bersenang-senang :-)
 
 
 Aplikasi/Proyek
