@@ -37,7 +37,7 @@ D
 E
 -
 
-* [Eka Putra](https://github.com/ekaputra07) ([@ekaputra07](https://twitter.com/ekaputra07), [linkedin](http://www.linkedin.com/in/ekaputra07))
+* [Eka Putra](https://github.com/ekaputra07) ([@ekaputra07](https://twitter.com/ekaputra07), [linkedin](http://www.linkedin.com/in/ekaputra07)). Ubud, Gianyar - Bali.
 
 F
 -
