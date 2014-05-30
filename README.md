@@ -93,7 +93,7 @@ N
 O
 -
 
-* ...
+* [Owo Sugiana](https://bitbucket.org/sugiana)
 
 P
 -
@@ -171,6 +171,7 @@ Aplikasi/Proyek
 * planpinbot - ([planpin twitter bot](http://twitter.com/planpin))
 * azan jakarta - ([twitter bot waktu shalat](http://twitter.com/azanjakarta))
 * pyislamia - ([pyislamia](https://bitbucket.org/tatataufik/pyislamia.git))
+* [Slony Helper](https://bitbucket.org/sugiana/slony-helper)
 
 Lisensi
 =======
