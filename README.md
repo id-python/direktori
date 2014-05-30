@@ -3,6 +3,8 @@ direktori
 
 Direktori Pythonistas dan Proyek - Python Indonesia.
 
+Untuk menambahkan, silahkan lihat [ikut.md](ikut.md).
+
 Tentang
 =======
 
