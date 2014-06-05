@@ -22,6 +22,16 @@ Hackathon
 
 Selain kopi darat, sempat ada ide untuk membuat kelas _hands on_, praktik _coding_ dengan python. Anda bisa berkontribusi dengan: menyiapkan bahan, menjadi pengajar, menjadi asisten. 
 
+Peta Pythonista Indonesia
+-------------------------
+
+Proyek direktori berusaha mendata siapa saja dan proyek apa saja yang dikembangkan oleh Pythonista Indonesia. Lalu muncul kebutuhan baru yaitu mendapatkan peta sebaran domisili Pythonista Indonesia. Rencananya akan menggunakan aplikasi users dari inasafe. (URL?). Saat ini masih dibutuhkan infrastruktur dan orang yang siap untuk men-deploy.
+
+Program Mentorship
+------------------
+
+Program mentorship adalah program bimbingan dari dan untuk Pythonista Indonesia. Lebih lanjut mengenai program mentorship dapat dilihat pada laman berikut: http://www.python.or.id/2014/05/program-mentorship.html
+
 Dokumentasi
 ------------
 
