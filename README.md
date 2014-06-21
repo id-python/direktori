@@ -71,6 +71,7 @@ J
 -
 
 * Jessica Rasidi ([github](http://github.com/jessicarasidi))
+* [Joandi Leonardus](http://www.joandilee.com) ([@zho](http://twitter.com/zho), [LinkedIn](http://www.linkedin.com/in/joandi))
 
 K
 -
