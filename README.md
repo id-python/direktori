@@ -8,7 +8,7 @@ Untuk menambahkan, silahkan lihat [ikut.md](ikut.md).
 Tentang
 =======
 
-Repositori ini _akan_ berisi nama-nama Pythonistas dan proyek-proyek Python Indonesia. 
+Repositori ini _akan_ berisi nama-nama Pythonistas dan proyek-proyek Python Indonesia.
 
 Pythonistas
 ===========
@@ -32,7 +32,7 @@ C
 * ...
 
 D
-- 
+-
 
 * [Donny Reza] (http://donnyreza.net) ([@donnyreza](https://twitter.com/donnyreza))
 
@@ -40,6 +40,7 @@ E
 -
 
 * [Eka Putra](https://github.com/ekaputra07) ([@ekaputra07](https://twitter.com/ekaputra07), [linkedin](http://www.linkedin.com/in/ekaputra07)). Ubud, Gianyar - Bali.
+* [Edwin Lunando](https://github.com/edwinlunando) ([@edwinlunando](https://twitter.com/edwinlunando))
 
 F
 -
@@ -134,12 +135,12 @@ U
 * ...
 
 V
-- 
+-
 
 * ...
 
 W
-- 
+-
 
 * ...
 
@@ -154,7 +155,7 @@ Y
 * ...
 
 Z
--- 
+--
 
 * Zaki Akhmad ([@zakiakhmad](http://twitter.com/zakiakhmad)); Jakarta Selatan; security, penetration test, scripting, dan bersenang-senang :-)
 
@@ -175,6 +176,7 @@ Aplikasi/Proyek
 * azan jakarta - ([twitter bot waktu shalat](http://twitter.com/azanjakarta))
 * pyislamia - ([pyislamia](https://bitbucket.org/tatataufik/pyislamia.git))
 * [Slony Helper](https://bitbucket.org/sugiana/slony-helper)
+* [django-naomi](https://github.com/edwinlunando/django-naomi)
 
 Lisensi
 =======
