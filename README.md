@@ -20,6 +20,7 @@ A
 * Andri Nugraha ([linkedin](http://id.linkedin.com/in/andrinugraha))
 * Ardin Fardiansyah ([github](http://github.com/ardfard), [@ardfard101](https://twitter.com/ardfard101))
 * Abdurahman Soleh ([bitbucket](https://bitbucket.org/asoleh), [@abdurahmansoleh](https://twitter.com/abdurahmansoleh))
+* Arif Kurniawan ([github](http://github.com/raisoblast), [@arifk97](https://twitter.com/arifk97))
 
 B
 -
@@ -177,6 +178,7 @@ Aplikasi/Proyek
 * pyislamia - ([pyislamia](https://bitbucket.org/tatataufik/pyislamia.git))
 * [Slony Helper](https://bitbucket.org/sugiana/slony-helper)
 * [django-naomi](https://github.com/edwinlunando/django-naomi)
+* PostgreSQL Plugin for Bottle.py ([bottle-pgsql](https://github.com/raisoblast/bottle-pgsql))
 
 Lisensi
 =======
