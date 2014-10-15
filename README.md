@@ -115,7 +115,7 @@ R
 -
 
 * Rezha Julio ([@kimiamania](http://twitter.com/kimiamania))
-* Ridho Adya Pangestu ([github](http://github.com/ridhoadya),([linkedin](http://www.linkedin.com/in/ridhoadya))
+* Ridho Adya Pangestu ([github](http://github.com/ridhoadya), [linkedin](http://www.linkedin.com/in/ridhoadya))
 
 S
 -
