@@ -21,6 +21,7 @@ A
 * Ardin Fardiansyah ([github](http://github.com/ardfard), [@ardfard101](https://twitter.com/ardfard101))
 * Abdurahman Soleh ([bitbucket](https://bitbucket.org/asoleh), [@abdurahmansoleh](https://twitter.com/abdurahmansoleh))
 * Arif Kurniawan ([github](http://github.com/raisoblast), [@arifk97](https://twitter.com/arifk97))
+* Aditia A. Pratama ([Github](https://github.com/aditiapratama), [@aditia_ap](https://twitter.com/aditia_ap), [Linkedin](http://www.linkedin.com/in/aditiapratama))). Bandung - Jawa Barat
 
 B
 -
