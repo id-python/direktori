@@ -27,7 +27,7 @@ B
 -
 
 * [Batista Harahap](http://resume.bango29.com) ([@tista](https://twitter.com/tista))
-* [Budi Yanto] (http://budiyanto.info)([github](https://github.com/byanto), [bitbucket](https://bitbucket.org/byanto), [@byanto13](https://twitter.com/byanto13))
+* [Budi Yanto](http://budiyanto.info) ([github](https://github.com/byanto), [bitbucket](https://bitbucket.org/byanto), [@byanto13](https://twitter.com/byanto13))
 
 C
 -
