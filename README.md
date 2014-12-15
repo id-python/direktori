@@ -105,6 +105,7 @@ O
 
 P
 -
+* [Pandu E Poluan](http://pandu.poluan.info/) ([+PanduPoluan](https://plus.google.com/+PanduPoluan/), [LinkedIn](https://id.linkedin.com/in/pepoluan), [BitBucket](https://bitbucket.org/pepoluan))
 * [Peb Ruswono Aryan](http://github.com/pebbie) ([@pebaryan](http://twitter.com/pebaryan))
 * [Petra Novandi Barus](http://petrabarus.net) ([@petrabarus](http://twitter.com/petrabarus), [linkedin](http://id.linkedin.com/in/petrabarus))
 * [Putu Wiramaswara Widya](http://wiramaswara.blogspot.com) ([@wiramaswara](https://twitter.com/wiramaswara)) ([github](https://github.com/initrunlevel0))
