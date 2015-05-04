@@ -128,7 +128,7 @@ S
 
 * Sakti Dwi Cahyono ([@saktidc](http://twitter.com/saktidc))
 * Selwin Ong
-* Sutrisno Efendi ([@kangfend](http://twitter.com/kangfend))
+* [Sutrisno Efendi](http://github.com/kangfend) ([@kangfend](http://twitter.com/kangfend))
 
 T
 -
@@ -186,6 +186,7 @@ Aplikasi/Proyek
 * [Slony Helper](https://bitbucket.org/sugiana/slony-helper)
 * [django-naomi](https://github.com/edwinlunando/django-naomi)
 * PostgreSQL Plugin for Bottle.py ([bottle-pgsql](https://github.com/raisoblast/bottle-pgsql))
+* [PyJNE](https://github.com/kangfend/py-jne)
 
 Lisensi
 =======
