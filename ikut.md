@@ -14,7 +14,8 @@ $ git clone git@github.com:username/direktori.git
 - tambahkan _upstream_ id-python/direktori di _clone_ direktori
 
 ```
-$ git add remote upstream git@github.com:id-python/direktori.git
+$ git remote add upstream git@github.com:id-python/direktori.git
+$ git fetch upstream
 $ git rebase upstream/master
 ```
 
