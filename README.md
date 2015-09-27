@@ -20,6 +20,7 @@ A
 * Andri Nugraha ([linkedin](http://id.linkedin.com/in/andrinugraha))
 * Ardin Fardiansyah ([github](http://github.com/ardfard), [@ardfard101](https://twitter.com/ardfard101))
 * Abdurahman Soleh ([bitbucket](https://bitbucket.org/asoleh), [@abdurahmansoleh](https://twitter.com/abdurahmansoleh))
+* Adiyat Mubarak ([github](https://github.com/Keda87), [@adiyatmubarak](https://twitter.com/adiyatmubarak))
 * Arif Kurniawan ([github](http://github.com/raisoblast), [@arifk97](https://twitter.com/arifk97))
 * Aditia A. Pratama ([Github](https://github.com/aditiapratama), [@aditia_ap](https://twitter.com/aditia_ap), [Linkedin](http://www.linkedin.com/in/aditiapratama)). Bandung - Jawa Barat
 * [Abdul Somat Budiaji](http://budiaji.github.io/) ([github](http://github.com/budiaji), [@nacksomat](http://twitter.com/nacksomat))
