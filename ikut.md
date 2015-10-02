@@ -1,5 +1,7 @@
 # Cara menambah data di direktori
 
+Untuk yang belum pernah menggunakan git sebelumnya, bisa belajar dasar-dasar git melalui [tutorial git oleh Endy Muhardin] (https://github.com/endymuhardin/belajarGit)
+
 ## Jika belum pernah fork dan clone
 
 - _fork_ [repositori](https://github.com/id-python/direktori/fork) (kamu akan memiliki repositori `username/direktori`)
