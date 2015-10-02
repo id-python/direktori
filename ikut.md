@@ -24,4 +24,5 @@ $ git rebase upstream/master
 ## Selanjutnya
 
 - lakukan perubahan yang perlu
+- `commit` dan `push` ke repositori `direktori` kamu.
 - ajukan _pull request_ melalui halaman [https://github.com/username/direktori/compare/id-python:master...master](https://github.com/username/direktori/compare/id-python:master...master) (ganti `username` dengan username kamu)
