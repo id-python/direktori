@@ -26,6 +26,7 @@ A
 * Aditia A. Pratama ([Github](https://github.com/aditiapratama), [@aditia_ap](https://twitter.com/aditia_ap), [Linkedin](http://www.linkedin.com/in/aditiapratama)). Bandung - Jawa Barat
 * [Abdul Somat Budiaji](http://budiaji.github.io/) ([github](http://github.com/budiaji), [@nacksomat](http://twitter.com/nacksomat))
 * Agus Makmun ([github](https://github.com/agusmakmun), [bitbucket](https://bitbucket.org/summonagus/))
+* Ahmad Priatama ([github](https://github.com/ahmadpriatama), [twitter](https://twitter.com/mammetow))
 
 B
 -
