@@ -27,6 +27,7 @@ A
 * [Abdul Somat Budiaji](http://budiaji.github.io/) ([github](http://github.com/budiaji), [@nacksomat](http://twitter.com/nacksomat))
 * Agus Makmun ([github](https://github.com/agusmakmun), [bitbucket](https://bitbucket.org/summonagus/))
 * Ahmad Priatama ([github](https://github.com/ahmadpriatama), [twitter](https://twitter.com/mammetow))
+* [Angga Lanuma](https://lanuma.web.id) ([Twitter](https://twitter.com/agiant), [Github](https://github.com/lanuma))
 
 B
 -
