@@ -102,6 +102,7 @@ M
 * Muhammad Syaiful ([github](http://github.com/saifulindo), [@saifulindo](http://twitter.com/saifulindo))
 * [M Haidar Hanif](http://mhaidarhanif.org) ([@mhaidarh](https://twitter.com/mhaidarh), [+MHaidarHanif](https://plus.google.com/+MHaidarHanif), [GitHub](https://github.com/mhaidarh), [Keybase](https://keybase.io/mhaidarh))
 * M Arnas Risqianto ([@masrodjie] (https://twitter.com/masrodjie))
+* [Mamat Rahmat](https://mamat-rahmat.github.io) ([github](https://github.com/mamat-rahmat), [twitter](https://twitter.com/coderbodoh))
 
 N
 -
