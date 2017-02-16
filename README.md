@@ -50,6 +50,7 @@ E
 
 * [Eka Putra](https://github.com/ekaputra07) ([@ekaputra07](https://twitter.com/ekaputra07), [linkedin](http://www.linkedin.com/in/ekaputra07)). Ubud, Gianyar - Bali.
 * [Edwin Lunando](https://github.com/edwinlunando) ([@edwinlunando](https://twitter.com/edwinlunando))
+* [Edi Santoso](https://github.com/repodevs) ([@repodevs](https://twitter.com/repodevs), [linkedin](http://www.linkedin.com/in/repodevs))
 
 F
 -
