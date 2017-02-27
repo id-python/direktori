@@ -8,7 +8,7 @@ Untuk yang belum pernah menggunakan git sebelumnya, bisa belajar dasar-dasar git
 - _clone_ repositori hasil _fork_ tersebut (ganti `username` dengan username kamu)
 
 ```
-$ git clone git@github.com:username/direktori.git
+$ git clone https://github.com/username/direktori.git
 ```
 
 ## Jika sudah pernah fork dan clone
@@ -16,7 +16,7 @@ $ git clone git@github.com:username/direktori.git
 - tambahkan _upstream_ id-python/direktori di _clone_ direktori
 
 ```
-$ git remote add upstream git@github.com:id-python/direktori.git
+$ git remote add upstream https://github.com/id-python/direktori.git
 $ git fetch upstream
 $ git rebase upstream/master
 ```
