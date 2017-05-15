@@ -85,6 +85,7 @@ J
 
 * Jessica Rasidi ([github](http://github.com/jessicarasidi))
 * [Joandi Leonardus](http://www.joandilee.com) ([@zho](http://twitter.com/zho), [LinkedIn](http://www.linkedin.com/in/joandi))
+* [John Vandenberg](https://github.com/jayvdb) ([@jayvdb](https://twitter.com/jayvdb), [LinkedIn](https://www.linkedin.com/in/jayvdb/))
 
 K
 -
