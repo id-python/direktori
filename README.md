@@ -28,6 +28,7 @@ A
 * Agus Makmun ([github](https://github.com/agusmakmun), [bitbucket](https://bitbucket.org/summonagus/))
 * Ahmad Priatama ([github](https://github.com/ahmadpriatama), [twitter](https://twitter.com/mammetow))
 * [Angga Lanuma](https://lanuma.web.id) ([Twitter](https://twitter.com/agiant), [Github](https://github.com/lanuma))
+* [Abdurrachman Mappuji](https://mappuji.com/) ([GitHub](https://github.com/mappuji), [LinkedIn](https://www.linkedin.com/in/mappuji/), [Twiter](https://twitter.com/mappuji))
 
 B
 -
@@ -201,6 +202,7 @@ Aplikasi/Proyek
 * [django-naomi](https://github.com/edwinlunando/django-naomi)
 * PostgreSQL Plugin for Bottle.py ([bottle-pgsql](https://github.com/raisoblast/bottle-pgsql))
 * [PyJNE](https://github.com/kangfend/py-jne)
+* Wood Nondestructive Evaluation ([ugm-kayu-nde](https://github.com/mappuji/ugm-kayu-nde))
 
 Lisensi
 =======
