@@ -16,7 +16,6 @@ Pythonistas
 A
 -
 * [Akbar Gumbira](http://www.akbargumbira.com) ([@akbargumbira](http://www.twitter.com/akbargumbira))
-* [Andre Christoga](http://christo.ga) ([github](https://github.com/christoga), [@andrechristoga](https://twitter.com/andrechristoga))
 * Aldiantoro Nugroho ([github](https://github.com/kriwil), [twitter](https://www.twitter.com/kriwil))
 * Andri Nugraha ([linkedin](http://id.linkedin.com/in/andrinugraha))
 * Ardin Fardiansyah ([github](http://github.com/ardfard), [@ardfard101](https://twitter.com/ardfard101))
