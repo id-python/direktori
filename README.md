@@ -69,7 +69,8 @@ H
 
 * [Hiraq Citra Mahardika](https://id.linkedin.com/in/hiraq) ([Twitter](https://twitter.com/_hiraq)) ([Github](https://github.com/hiraq))
 * [Haries Ramdhani](https://www.linkedin.com/in/haries-ramdhani-099450b8/) ([Twitter](https://twitter.com/harieesss), [GitHub](https://github.com/hariesramdhani))
-* ...
+* Harits ([Github](https://github.com/otakbeku))
+*
 
 I
 -
