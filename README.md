@@ -80,6 +80,7 @@ I
 * Ismail Sunni ([@ismailsunni](http://twitter.com/ismailsunni))
 * Isman Firmansyah ([@iromli](http://twitter.com/iromli))
 * Iwan Budi Kusnanto
+* [Iskandar Setiadi](https://github.com/freedomofkeima) ([Twitter](https://twitter.com/freedom_holicx), [LinkedIn](https://www.linkedin.com/in/iskandarsetiadi/))
 
 J
 -
