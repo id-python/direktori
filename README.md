@@ -82,6 +82,7 @@ I
 * Isman Firmansyah ([@iromli](http://twitter.com/iromli))
 * Iwan Budi Kusnanto
 * [Iskandar Setiadi](https://github.com/freedomofkeima) ([Twitter](https://twitter.com/freedom_holicx), [LinkedIn](https://www.linkedin.com/in/iskandarsetiadi/))
+* Indhi Farhandika Rochimansyah ([GitHub](https://github.com/indhifarhandika), [LinkedIn](https://www.linkedin.com/in/indhifarhandika/), [Instagram](https://www.instagram.com/indhifarhandika/))
 
 J
 -
