@@ -28,7 +28,7 @@ A
 * Agus Makmun ([github](https://github.com/agusmakmun), [bitbucket](https://bitbucket.org/summonagus/))
 * Ahmad Priatama ([github](https://github.com/ahmadpriatama), [twitter](https://twitter.com/mammetow))
 * [Angga Lanuma](https://lanuma.web.id) ([Twitter](https://twitter.com/agiant), [Github](https://github.com/lanuma))
-* [Agung Pratama](https://agungpratama.id) ([Github](https://github.com/gonggle), [Gitlab](https://gitlab.com/wakataw))
+* [Agung Pratama](https://id.linkedin.com/in/prtmgng) ([Github](https://github.com/wakataw), [Gitlab](https://gitlab.com/wakataw))
 
 B
 -
@@ -209,7 +209,7 @@ Aplikasi/Proyek
 * [django-naomi](https://github.com/edwinlunando/django-naomi)
 * PostgreSQL Plugin for Bottle.py ([bottle-pgsql](https://github.com/raisoblast/bottle-pgsql))
 * [PyJNE](https://github.com/kangfend/py-jne)
-* Cekfaktur (Chatbot for validating e-Faktur invoice QR-Code, [Website](https://about.botax.org/), [Line](http://line.me/ti/p/~@cekfaktur), [GitLab Repository](https://gitlab.com/cekfaktur))
+* [PyProc - LPSE Downloader & API Wrapper](https://github.com/wakataw/pyproc)
 
 Lisensi
 =======
