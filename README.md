@@ -123,7 +123,7 @@ O
 
 P
 -
-* [Pandu E POLUAN](https://github.com/pepoluan) ([+PanduPoluan](https://plus.google.com/+PanduPoluan/), [LinkedIn](https://id.linkedin.com/in/pepoluan), [BitBucket](https://bitbucket.org/pepoluan))
+* [Pandu E POLUAN](https://github.com/pepoluan) ([LinkedIn](https://id.linkedin.com/in/pepoluan), [Twitter](https://twitter.com/pepoluan/), [SourceForge](https://sourceforge.net/u/pepoluan/profile/), [SourceHut Mercurial](https://hg.sr.ht/~pepoluan/), [SourceHut Git](https://git.sr.ht/~pepoluan/), [GitLab](https://gitlab.com/pepoluan))
 * [Peb Ruswono Aryan](http://github.com/pebbie) ([@pebaryan](http://twitter.com/pebaryan))
 * [Petra Novandi Barus](http://petrabarus.net) ([@petrabarus](http://twitter.com/petrabarus), [linkedin](http://id.linkedin.com/in/petrabarus))
 * [Putu Wiramaswara Widya](http://wiramaswara.blogspot.com) ([@wiramaswara](https://twitter.com/wiramaswara)) ([github](https://github.com/initrunlevel0))
