@@ -84,6 +84,7 @@ I
 * [Iskandar Setiadi](https://github.com/freedomofkeima) ([Twitter](https://twitter.com/freedom_holicx), [LinkedIn](https://www.linkedin.com/in/iskandarsetiadi/))
 * Indhi Farhandika Rochimansyah ([GitHub](https://github.com/indhifarhandika), [LinkedIn](https://www.linkedin.com/in/indhifarhandika/), [Instagram](https://www.instagram.com/indhifarhandika/))
 * Imam Omar Mochtar ([github](https://github.com/iomarmochtar), [linkedin](https://www.linkedin.com/in/iomarmochtar/))
+* Indrawan I ([github](https://github.com/sinkaroid), [@sinkaroid](http://twitter.com/sinkaroid))
 
 J
 -
@@ -210,6 +211,7 @@ Aplikasi/Proyek
 * PostgreSQL Plugin for Bottle.py ([bottle-pgsql](https://github.com/raisoblast/bottle-pgsql))
 * [PyJNE](https://github.com/kangfend/py-jne)
 * [PyProc - LPSE Downloader & API Wrapper](https://github.com/wakataw/pyproc)
+* [Booru](https://github.com/sinkaroid/booru) - Python bindings for the imageboards
 
 Lisensi
 =======
