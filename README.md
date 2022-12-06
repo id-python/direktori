@@ -211,7 +211,8 @@ Aplikasi/Proyek
 * PostgreSQL Plugin for Bottle.py ([bottle-pgsql](https://github.com/raisoblast/bottle-pgsql))
 * [PyJNE](https://github.com/kangfend/py-jne)
 * [PyProc - LPSE Downloader & API Wrapper](https://github.com/wakataw/pyproc)
-* [Booru](https://github.com/sinkaroid/booru) - Python bindings for the imageboards
+* [Booru](https://pypi.org/project/booru/) - Python bindings for the imageboards. [Source](https://github.com/sinkaroid/booru)
+* [Jigoku](https://pypi.org/project/jigoku/) - Modular bulk downloader for the imageboards built on good intentions. [Source](https://github.com/sinkaroid/jigoku)
 
 Lisensi
 =======
