@@ -214,6 +214,7 @@ Aplikasi/Proyek
 * [Booru](https://pypi.org/project/booru/) - Python bindings for the imageboards. [Source](https://github.com/sinkaroid/booru)
 * [Jigoku](https://pypi.org/project/jigoku/) - Modular bulk downloader for the imageboards built on good intentions. [Source](https://github.com/sinkaroid/jigoku)
 * [Tomoe](https://pypi.org/project/tomoe/) - An exalted manga & doujinshi downloader with ease. [Source](https://github.com/sinkaroid/tomoe)
+* [Janda](https://pypi.org/project/janda/) - Python library to interacts with most popular manga and doujinshi. [Source](https://github.com/sinkaroid/janda)
 
 Lisensi
 =======
